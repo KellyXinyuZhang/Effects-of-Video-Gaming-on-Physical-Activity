@@ -1,5 +1,5 @@
 # Effects-of-Video-Gaming-on-Physical-Activity
-In this study, we attampt to identify a causal effect between playing Pokémon GO and players' physical activities.
+In this study, we attempt to identify a causal effect between playing Pokémon GO and players' physical activities.
 
 Files included
 ----------------------
